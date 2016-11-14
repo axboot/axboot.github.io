@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<urlset xmlns='http://www.google.com/schemas/sitemap/0.84'>
+    <!-- portal -->
+    <url>
+        <loc>http://axboot.com/</loc>
+        <lastmod>2016-11-14T00:00:00Z</lastmod>
+        <priority>1.0</priority>
+    </url>
+    <url>
+        <loc>http://start.axboot.com/</loc>
+        <lastmod>2016-11-14T00:00:00Z</lastmod>
+        <priority>1.0</priority>
+    </url>
+    <url>
+        <loc>https://github.com/axboot</loc>
+        <lastmod>2016-11-14T00:00:00Z</lastmod>
+        <priority>1.0</priority>
+    </url>
+    <url>
+        <loc>https://github.com/axboot/ax-boot-framework</loc>
+        <lastmod>2016-11-14T00:00:00Z</lastmod>
+        <priority>1.0</priority>
+    </url>
+    <url>
+        <loc>https://github.com/axboot/ax-boot-themes</loc>
+        <lastmod>2016-11-14T00:00:00Z</lastmod>
+        <priority>1.0</priority>
+    </url>
+    <url>
+        <loc>https://github.com/ax5ui</loc>
+        <lastmod>2016-11-14T00:00:00Z</lastmod>
+        <priority>1.0</priority>
+    </url>
+    <url>
+        <loc>https://api.axboot.com/</loc>
+        <lastmod>2016-11-14T00:00:00Z</lastmod>
+        <priority>1.0</priority>
+    </url>
+    <url>
+        <loc>https://www.facebook.com/groups/axboot/</loc>
+        <lastmod>2016-11-14T00:00:00Z</lastmod>
+        <priority>1.0</priority>
+    </url>
+</urlset>
